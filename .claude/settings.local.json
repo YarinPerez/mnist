@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv:*)",
+      "Bash(uv add:*)",
+      "Bash(uv python list:*)",
+      "Bash(uv python pin:*)",
+      "Bash(uv run pytest:*)",
+      "Bash(uv run jupyter nbconvert:*)",
+      "Bash(for f in /home/yarin/project/AI_RamatGan/L36/mnist/results/classification_report_exp*.txt)",
+      "Bash(do head -2 \"$f\")",
+      "Bash(done)"
+    ]
+  }
+}
