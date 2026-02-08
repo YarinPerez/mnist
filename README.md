@@ -2,6 +2,8 @@
 
 A neural network classifier for handwritten digits (0-9) using the MNIST dataset. Includes 4 experiments with increasing complexity to demonstrate the effects of depth, width, and dropout regularization.
 
+**[Open the Notebook](mnist_classification.ipynb)**
+
 ## Results Summary
 
 | Experiment | Architecture | Test Accuracy |
